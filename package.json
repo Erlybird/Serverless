@@ -21,5 +21,16 @@
   "bugs": {
     "url": "https://github.com/Erlybird/Serverless/issues"
   },
-  "homepage": "https://github.com/Erlybird/Serverless#readme"
+  "homepage": "https://github.com/Erlybird/Serverless#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1518.0",
+    "axios": "^1.6.2",
+    "buffer": "^6.0.3",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "mailgun-js": "^0.22.0",
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^6.9.7",
+    "path": "^0.12.7"
+  }
 }
