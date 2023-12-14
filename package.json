@@ -1,0 +1,25 @@
+{
+  "name": "lambda-serverless",
+  "version": "1.0.0",
+  "description": "cloud assignment 9",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erlybird/Serverless.git"
+  },
+  "keywords": [
+    "[\"node\"",
+    "\"JavaScript\"",
+    "\"lambda\"",
+    "\"Serverless\"]"
+  ],
+  "author": "Sangram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erlybird/Serverless/issues"
+  },
+  "homepage": "https://github.com/Erlybird/Serverless#readme"
+}
