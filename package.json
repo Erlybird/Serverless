@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "cloud assignment 9",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "test"
   },
